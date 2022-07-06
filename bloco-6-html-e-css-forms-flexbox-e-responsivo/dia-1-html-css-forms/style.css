@@ -1,0 +1,27 @@
+#conteiner-form {
+  border: solid 3px black;
+  width: 50%;
+  height: 430px;
+ 
+}
+
+
+.email , .nome {
+  margin: 10px;
+}
+
+#text-area-box {
+  margin: 20px;
+  position: relative;
+}
+
+#box-text {
+  position: relative;
+  bottom: 12px;
+}
+
+.data {
+  margin: 10px;
+  position: relative;
+  bottom: 20px;
+}
